@@ -12,7 +12,7 @@ const News = () => {
                 <div className="auto-container">
                     <div className="sec-title text-center">
                     <p>News &amp; Updates</p>
-                    <h2>Latest thinking in data science and<br />our company news</h2>
+                    <h2>Be aware of the latest news and articles <br />in the database industry</h2>
                     <div className="decor" style={{backgroundImage: 'url(assets/images/icons/decor-1.png)'}} />
                     </div>
                 </div>

@@ -69,7 +69,7 @@ const Footer = () => {
                         <div className="box">
                             <figure className="logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt="" /></a></figure>
                             <div className="text">
-                            <p>Our goal is to help our companies maintain achieve best class positions their respective industries &amp; our team works occur that pleasures have to be repudiated.</p>
+                            <p>Database academy focuses on the growth of the learners. We aim to provide the best e-training with top-notch mentors to help you master the core database related skills.</p>
                             </div>
                         </div>
                         <div className="subscribe-box">

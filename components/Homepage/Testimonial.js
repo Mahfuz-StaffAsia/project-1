@@ -12,7 +12,7 @@ const Testimonial = () => {
                 <div className="upper-box clearfix">
                     <div className="sec-title text-left pull-left">
                     <p>Testimonials</p>
-                    <h2>What say our clients about our awesome service</h2>
+                    <h2>Our learner’s outlook</h2>
                     <div className="decor" style={{backgroundImage: 'url(assets/images/icons/decor-1.png)'}} />
                     </div>
                     <div className="btn-box pull-right">
@@ -33,7 +33,7 @@ const Testimonial = () => {
                             <li><i className="flaticon-stars" /></li>
                         </ul>
                         <div className="text">
-                            <p>As a growing company, we found in Naxly’ expertise in data science invaluable. In almost two years of cooperation, they’ve helped us define our data.</p>
+                            <p>Database academy provided me invaluable knowledge. I have enjoyed my learning journey with them tremendously.</p>
                         </div>
                         <div className="author-info">
                             <h4>Zedrew Kowzel</h4>
@@ -55,7 +55,7 @@ const Testimonial = () => {
                             <li><i className="flaticon-stars" /></li>
                         </ul>
                         <div className="text">
-                            <p>As a growing company, we found in Naxly’ expertise in data science invaluable. In almost two years of cooperation, they’ve helped us define our data.</p>
+                            <p>They have really amazing courses and their content was very thorough. I highly recommend it.</p>
                         </div>
                         <div className="author-info">
                             <h4>Androi Roi</h4>

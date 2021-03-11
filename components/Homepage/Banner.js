@@ -19,11 +19,11 @@ const Banner = () => {
                 <div className="row clearfix">
                     <div className="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div className="content-box">
-                        <h1>Turn data into insight with survey reports</h1>
-                        <p>Naxly bring the power of data science and artificial<br />intelligence to every business.</p>
+                        <h1> Enhance your data-sense</h1>
+                        <p>Solve any kind of hurdles in using data by applying<br />latest strategies and tools.</p>
                         <div className="btn-box">
                         <a href="index.html" className="theme-btn style-two">Learn More<span>+</span></a>
-                        <a href="index.html" className="theme-btn style-one">Get Started<span>+</span></a>
+                        <a href="index.html" className="theme-btn style-one">Start Learning<span>+</span></a>
                         </div>
                     </div>
                     </div>

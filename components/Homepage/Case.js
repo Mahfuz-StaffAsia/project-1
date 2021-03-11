@@ -8,7 +8,7 @@ const Case = () => {
                 <div className="inner-container">
                     <div className="sec-title text-center">
                     <p>Case Studies</p>
-                    <h2>What our clients say about our<br />awesome solutions</h2>
+                    <h2>Arm yourself with<br />professional advice</h2>
                     <div className="decor" style={{backgroundImage: 'url(assets/images/icons/decor-1.png)'}} />
                     </div>
                     <div className="row clearfix">

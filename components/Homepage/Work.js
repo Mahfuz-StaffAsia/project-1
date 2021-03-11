@@ -20,8 +20,8 @@ const Work = () => {
                             <div className="bg-pattern" style={{backgroundImage: 'url(assets/images/icons/icon-bg-1.png)'}} />
                             <div className="overlay-pattern" style={{backgroundImage: 'url(assets/images/icons/icon-bg-2.png)'}} />
                         </div>
-                        <h4><a href="index.html">Frame the Problem</a></h4>
-                        <p>To take a trivial example, which idea of ever undertakes.</p>
+                        <h4><a href="index.html">Free Resources</a></h4>
+                        <p>Have a better understanding of the industry with our free resources.</p>
                         </div>
                     </div>
                     </div>
@@ -34,8 +34,8 @@ const Work = () => {
                             <div className="bg-pattern" style={{backgroundImage: 'url(assets/images/icons/icon-bg-1.png)'}} />
                             <div className="overlay-pattern" style={{backgroundImage: 'url(assets/images/icons/icon-bg-2.png)'}} />
                         </div>
-                        <h4><a href="index.html">Collect the Data</a></h4>
-                        <p>Best every pleasure is too welcomed every pain avoided.</p>
+                        <h4><a href="index.html">Free quiz</a></h4>
+                        <p>Evaluate yourself and know where to start with our free quiz.</p>
                         </div>
                     </div>
                     </div>
@@ -48,8 +48,8 @@ const Work = () => {
                             <div className="bg-pattern" style={{backgroundImage: 'url(assets/images/icons/icon-bg-1.png)'}} />
                             <div className="overlay-pattern" style={{backgroundImage: 'url(assets/images/icons/icon-bg-2.png)'}} />
                         </div>
-                        <h4><a href="index.html">Process the Data</a></h4>
-                        <p>Have to be repudiated annoyances accepted the wise.</p>
+                        <h4><a href="index.html">Tips video</a></h4>
+                        <p>Gain extra knowledge from the experts.</p>
                         </div>
                     </div>
                     </div>

@@ -13,11 +13,11 @@ const About = () => {
                             <div className="content-box">
                             <div className="sec-title text-left">
                                 <p>About Company</p>
-                                <h2>Mission is to bring the power of AI to every business</h2>
+                                <h2>Transform your pile of data into a powerful tool</h2>
                                 <div className="decor" style={{backgroundImage: 'url(assets/images/icons/decor-1.png)'}} />
                             </div>
                             <div className="text">
-                                <p>As a solution providing company we offer a wide range of consulting, development &amp; quality services with 100% satisfaction.</p>
+                                <p>Database Academy’s mission is to provide you the fundamentals and train you to excel in the field of data science. We will help you to go through any challenges as well as drive your career forward.</p>
                             </div>
                             <ul className="list-item clearfix">
                                 <li><span className="dots" />Idea of denouncing pleasure &amp; praising</li>

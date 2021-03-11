@@ -58,7 +58,7 @@ const Header = () => {
                 <div className="row clearfix">
                 <div className="col-lg-3 col-md-12 col-sm-12 logo-column">
                     <div className="logo-box style-two">
-                    <figure className="logo"><a href="index.html"><img src="assets/images/logo-6.png" alt="" /></a></figure>
+                    <figure className="logo"><a href="/"><img src="assets/images/logo-6.png" alt="" /></a></figure>
                     </div>
                 </div>
                 <div className="col-lg-9 col-md-12 col-sm-12 outer-column">
@@ -90,10 +90,10 @@ const Header = () => {
                         <nav className="main-menu navbar-expand-md navbar-light">
                             <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul className="navigation clearfix">
-                                <li className="current dropdown"><a href="index.html">Home</a>
+                                <li className="current dropdown"><a href="">Home</a>
                                 <ul>
                                     <li><a href="index.html">Data Science<i className="flaticon-next" /></a></li>
-                                    <li><a href="index-2.html">Artificial intelligence<i className="flaticon-next" /></a></li>
+                                    <li><a href="/ai">Artificial intelligence<i className="flaticon-next" /></a></li>
                                     <li><a href="index-3.html">Machine Learning<i className="flaticon-next" /></a></li>
                                     <li><a href="index-4.html">Business Intelligence<i className="flaticon-next" /></a></li>
                                     <li><a href="index-5.html">User Analysis<i className="flaticon-next" /></a></li>
@@ -111,16 +111,16 @@ const Header = () => {
                                     </li>
                                 </ul>
                                 </li> 
-                                <li className="dropdown"><a href="index.html">Company</a>
+                                <li className="dropdown"><a href="/aboutUs">Company</a>
                                 <ul>
-                                    <li><a href="about.html">About Company<i className="flaticon-next" /></a></li>
-                                    <li><a href="team.html">Meet Our Team<i className="flaticon-next" /></a></li>
-                                    <li><a href="contact.html">Contact Us<i className="flaticon-next" /></a></li>
+                                    <li><a href="/aboutUs">About Company<i className="flaticon-next" /></a></li>
+                                    <li><a href="/team">Meet Our Team<i className="flaticon-next" /></a></li>
+                                    <li><a href="/contact">Contact Us<i className="flaticon-next" /></a></li>
                                 </ul>
                                 </li>
-                                <li className="dropdown"><a href="index.html">Services</a>
+                                <li className="dropdown"><a href="/courses">Courses</a>
                                 <ul>
-                                    <li><a href="service.html">All Services<i className="flaticon-next" /></a></li>
+                                    <li><a href="/courses">All Services<i className="flaticon-next" /></a></li>
                                     <li><a href="service-details.html">Service Details<i className="flaticon-next" /></a></li>
                                 </ul>
                                 </li>
@@ -132,13 +132,13 @@ const Header = () => {
                                     <li><a href="project-details.html">Case Details<i className="flaticon-next" /></a></li>
                                 </ul>
                                 </li>
-                                <li className="dropdown"><a href="index.html">Blog</a>
+                                <li className="dropdown"><a href="/blog">Blog</a>
                                 <ul>
-                                    <li><a href="blog-1.html">Classic Grid<i className="flaticon-next" /></a></li>
+                                    <li><a href="/blog">Classic Grid<i className="flaticon-next" /></a></li>
                                     <li><a href="blog-2.html">Classic With S/B<i className="flaticon-next" /></a></li>
                                     <li><a href="blog-3.html">Modern With S/B<i className="flaticon-next" /></a></li>
                                     <li><a href="blog-4.html">Masonry<i className="flaticon-next" /></a></li>
-                                    <li><a href="blog-details.html">Single Post<i className="flaticon-next" /></a></li>
+                                    <li><a href="/singleBlog">Single Post<i className="flaticon-next" /></a></li>
                                 </ul>
                                 </li>
                                 <li className="dropdown"><a href="index.html">Elements</a>

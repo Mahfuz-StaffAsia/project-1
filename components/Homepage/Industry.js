@@ -14,7 +14,7 @@ const Industry = () => {
                     <div className="content-box">
                         <div className="sec-title text-left light">
                         <p>Industries</p>
-                        <h2>Industries we are transforming our awesome solutions</h2>
+                        <h2>Browse our premium quality courses</h2>
                         <div className="decor" style={{backgroundImage: 'url(assets/images/icons/decor-2.png)'}} />
                         </div>
                         <div className="btn-box"><a href="index.html" className="btn-style-four">View All Industries<span>+</span></a></div>
