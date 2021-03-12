@@ -92,7 +92,7 @@ const Header = () => {
                             <ul className="navigation clearfix">
                                 <li className="current dropdown"><a href="">Home</a>
                                 <ul>
-                                    <li><a href="index.html">Data Science<i className="flaticon-next" /></a></li>
+                                    <li><a href="/">Data Science<i className="flaticon-next" /></a></li>
                                     <li><a href="/ai">Artificial intelligence<i className="flaticon-next" /></a></li>
                                     <li><a href="index-3.html">Machine Learning<i className="flaticon-next" /></a></li>
                                     <li><a href="index-4.html">Business Intelligence<i className="flaticon-next" /></a></li>
