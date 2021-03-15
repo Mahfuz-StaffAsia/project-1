@@ -29,7 +29,7 @@ const About = () => {
                         </div>
                         <div className="col-lg-8 col-md-6 col-sm-12 inner-column">
                             <div className="inner-box">
-                            <div className="video-inner" style={{backgroundImage: 'url(assets/images/background/video-1.jpg)'}}>
+                            <div className="video-inner" style={{backgroundImage: 'url(assets/images/background/video-1.png)'}}>
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&t=28s" className="lightbox-image" data-caption><i className="flaticon-play-button" /></a>
                             </div>
                             </div>

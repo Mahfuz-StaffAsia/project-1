@@ -129,7 +129,7 @@ const Team = () => {
                     </div>
                     </div>
                 </div>
-                <div className="more-btn"><a href="team.html" className="btn-style-four">Meet All Members<span>+</span></a></div>
+                <div className="more-btn"><a href="/team" className="btn-style-four">Meet All Members<span>+</span></a></div>
                 </div>
             </section>
         </div>

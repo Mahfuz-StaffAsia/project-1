@@ -11,7 +11,7 @@ const Title = () => {
                     <ul className="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
                     <li><span>\\</span></li>
-                    <li>Company</li>
+                    <li>About Us</li>
                     </ul>
                 </div>
                 </div>

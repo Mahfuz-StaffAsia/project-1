@@ -65,7 +65,7 @@ const Testimonial = () => {
                     </div>
                     </div>
                     <div className="testimonial-content">
-                    <figure className="image-box"><img src="assets/images/resource/testimonial-9.png" alt="" /></figure>
+                    <figure className="image-box"><img src="assets/images/resource/testimonial-11.png" alt="" /></figure>
                     <div className="inner-box">
                         <div className="icon-box"><i className="flaticon-null" /></div>
                         <div className="inner">

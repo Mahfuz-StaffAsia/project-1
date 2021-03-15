@@ -39,20 +39,21 @@ const Footer = () => {
                         <div className="row clearfix">
                             <div className="col-lg-6 col-md-6 col-sm-12 column">
                             <ul className="links clearfix">
-                                <li><a href="index.html">Data Science</a></li>
-                                <li><a href="index.html">Ware Housing</a></li>
-                                <li><a href="index.html">Analytics</a></li>
-                                <li><a href="index.html">Visualisation</a></li>
-                                <li><a href="index.html">Migration</a></li>
+                                <li><a href="/privacy">Privacy Policy</a></li>
+                                <li><a href="/termsConditions">Terms of use</a></li>
+                                <li><a href="/contact">Contact Us</a></li>
+                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Our Partners</a></li>
+                                <li><a href="#">Redeem Vouchers</a></li>
                             </ul>
                             </div>
                             <div className="col-lg-6 col-md-6 col-sm-12 column">
                             <ul className="links clearfix">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="index.html">Company</a></li>
-                                <li><a href="index.html">Services</a></li>
-                                <li><a href="index.html">Works</a></li>
-                                <li><a href="index.html">Contact</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/aboutUs">About Us</a></li>
+                                <li><a href="#">Success Story</a></li>
+                                <li><a href="/courses">All Courses</a></li>
+                                <li><a href="/blog">Blog</a></li>
                             </ul>
                             </div>
                         </div>

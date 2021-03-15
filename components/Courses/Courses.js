@@ -36,7 +36,7 @@ const Courses = () => {
                                 <div className="single-item">
                                 <div className="box">
                                     <div className="icon-box"><i className="flaticon-analysis" /></div>
-                                    <span>Service</span>
+                                    <span>Assessment</span>
                                     <h4>Operational Anaytics</h4>
                                 </div>
                                 <div className="inner">
@@ -47,8 +47,8 @@ const Courses = () => {
                                 <div className="single-item">
                                 <div className="box">
                                     <div className="icon-box"><i className="flaticon-google-analytics" /></div>
-                                    <span>Service</span>
-                                    <h4>Assessment/ Requirements/ Career Path</h4>
+                                    <span>Assessment</span>
+                                    <h4>Operational Anaytics</h4>
                                 </div>
                                 <div className="inner">
                                     <p>Take a trivials example, which of us every undertakes some advantages.</p>
@@ -58,7 +58,7 @@ const Courses = () => {
                                 <div className="single-item">
                                 <div className="box">
                                     <div className="icon-box"><i className="flaticon-analysis" /></div>
-                                    <span>Service</span>
+                                    <span>Assessment</span>
                                     <h4>Operational Anaytics</h4>
                                 </div>
                                 <div className="inner">
@@ -69,7 +69,7 @@ const Courses = () => {
                                 <div className="single-item">
                                 <div className="box">
                                     <div className="icon-box"><i className="flaticon-google-analytics" /></div>
-                                    <span>Service</span>
+                                    <span>Assessment</span>
                                     <h4>Stream Analytics</h4>
                                 </div>
                                 <div className="inner">
@@ -80,7 +80,7 @@ const Courses = () => {
                                 <div className="single-item">
                                 <div className="box">
                                     <div className="icon-box"><i className="flaticon-analysis" /></div>
-                                    <span>Service</span>
+                                    <span>Assessment</span>
                                     <h4>Operational Anaytics</h4>
                                 </div>
                                 <div className="inner">
@@ -91,7 +91,7 @@ const Courses = () => {
                                 <div className="single-item">
                                 <div className="box">
                                     <div className="icon-box"><i className="flaticon-google-analytics" /></div>
-                                    <span>Service</span>
+                                    <span>Assessment</span>
                                     <h4>Stream Analytics</h4>
                                 </div>
                                 <div className="inner">

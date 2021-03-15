@@ -7,7 +7,7 @@ const Work = () => {
                 <div className="auto-container">
                 <div className="sec-title text-center">
                     <p>Our Work Process</p>
-                    <h2>Data science solutions for startup</h2>
+                    <h2>Additional essentials we provide just for you </h2>
                     <div className="decor" style={{backgroundImage: 'url(assets/images/icons/decor-1.png)'}} />
                 </div>
                 <div className="row clearfix">

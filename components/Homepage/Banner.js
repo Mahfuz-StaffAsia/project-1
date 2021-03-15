@@ -29,6 +29,10 @@ const Banner = () => {
                     </div>
                     <div className="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div className="slider-image-1 clearfix">
+                        <figure className="image image-1"><img src="assets/images/banner/Frame.png" alt="" /></figure>
+
+                        {/* animated single images can be added on below section */}
+                        {/*
                         <figure className="image image-1"><img src="assets/images/banner/banner-1-1.png" alt="" /></figure>
                         <figure className="image image-2 float-bob-y"><img src="assets/images/banner/banner-1-2.png" alt="" /></figure>
                         <figure className="image image-3"><img src="assets/images/icons/pie-chart-1.png" alt="" /></figure>
@@ -41,7 +45,7 @@ const Banner = () => {
                         <figure className="image image-10 wow bounceInDown" data-wow-delay="400ms" data-wow-duration="1500ms"><img src="assets/images/icons/dollar-3.png" alt="" /></figure>
                         <figure className="image image-11 wow bounceInDown" data-wow-delay="600ms" data-wow-duration="1500ms"><img src="assets/images/icons/dollar-4.png" alt="" /></figure>
                         <figure className="image image-12 wow bounceInDown" data-wow-delay="800ms" data-wow-duration="1500ms"><img src="assets/images/icons/dollar-5.png" alt="" /></figure>
-                        <figure className="image image-13"><img src="assets/images/icons/arrow-4.png" alt="" /></figure>
+                        <figure className="image image-13"><img src="assets/images/icons/arrow-4.png" alt="" /></figure> */}
                     </div>
                     </div>
                 </div>
